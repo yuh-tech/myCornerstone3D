@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Cornerstone.js](https://cornerstonejs.org/) &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the [OHIF Viewer](https://ohif.org/).
@@ -42,3 +43,6 @@ Read our guide on [How-to Contribute](https://cornerstonejs.org/docs/category/co
 ### License
 
 Cornerstone is [MIT licensed](./LICENSE).
+=======
+
+
